@@ -1,4 +1,3 @@
-## Hi there 👋
 
 
 
@@ -9,6 +8,7 @@
 
 [![chefuny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefuny&show_icons=true&theme=solarized-dark)](https://github.com/chefuny) 
 <!--
+## Hi there 👋
 
 
 Hi, here is chefuny.
