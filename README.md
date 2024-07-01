@@ -3,7 +3,7 @@
 
 
 
- Hi, Here is chefuny.
+ Hi, Here is Chefuny.
 
 
 [![chefuny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefuny&show_icons=true&theme=solarized-dark)](https://github.com/chefuny) 
