@@ -3,10 +3,10 @@
 
 
 
- Hi, Here is Chefuny.
+ Hi, Here is Chefury.
 
 
-[![chefuny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefuny&show_icons=true&theme=solarized-dark)](https://github.com/chefuny) 
+[![chefury's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefury&show_icons=true&theme=solarized-dark)](https://github.com/chefury) 
 <!--
 ## Hi there 
 
