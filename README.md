@@ -5,7 +5,9 @@
 
  Hi, Here is Chefury.
 
- Hey, this contribution is broken agian?
+ Hey, This contribution is broken agian?
+ 
+ Is Github blocked me?
 
 
 [![chefury's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefury&show_icons=true&theme=solarized-dark)](https://github.com/chefury) 
